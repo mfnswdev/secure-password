@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MSMyjcvCZY7zQQRwAL63NN8kb0HfzU1ci80yFT9hs3Y=",
+  "Source": "SecurePassword.API",
+  "BasePath": "_content/SecurePassword.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
